@@ -6,7 +6,7 @@
 
 ## Latest Reports
 
-- [2026-05-28 机核资讯摘要](./news-2026-05-28.md)
+- [2026-05-28 游戏新闻日报](./news-2026-05-28.md)
 
 ## What Gets Covered
 
@@ -44,7 +44,8 @@ news-YYYY-MM-DD.md
 
 ## Current Highlights
 
-1.《007：初露锋芒》媒体评分解禁，Metacritic 均分 87 分。
-2.2026 年 5 月网络游戏审批信息公布，158 款游戏过审。
-3.《生化危机：安魂曲》免费试玩版上线。
-4.英伟达正式退役经典 NVIDIA 控制面板。
+1.《007：初露锋芒》媒体评分解禁，Metacritic 多平台评分约 86-87，Steam 英文用户评价开局偏正面。
+2.CD PROJEKT RED 官宣《巫师3：狂猎》新资料片 Songs of the Past，计划 2027 年推出。
+3.Steam Deck OLED 因内存与存储成本上涨而大幅提价，海外玩家反应偏负面。
+4.《无人深空》The Swarm 更新上线，继续扩展免费更新内容。
+5.《勇者斗恶龙12》更名 Beyond Dreams 并公开新预告，系列玩家兴奋与担忧并存。
