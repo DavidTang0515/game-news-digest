@@ -6,6 +6,7 @@
 
 ## Latest Reports
 
+- [2026-05-31 游戏新闻日报](./news-2026-05-31.md)
 - [2026-05-28 游戏新闻日报](./news-2026-05-28.md)
 
 ## What Gets Covered
