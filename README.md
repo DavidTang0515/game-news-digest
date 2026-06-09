@@ -6,6 +6,7 @@
 
 ## Latest Reports
 
+- [2026-06-09 夏季发布会专版](./special-2026-06-09-summer-showcases.md)
 - [2026-06-09 游戏新闻日报](./news-2026-06-09.md)
 - [2026-05-31 游戏新闻日报](./news-2026-05-31.md)
 - [2026-05-28 游戏新闻日报](./news-2026-05-28.md)
@@ -46,8 +47,8 @@ news-YYYY-MM-DD.md
 
 ## Current Highlights
 
-1. 任天堂确认 2026 年 6 月 9 日举行新一期 Nintendo Direct，聚焦 Switch 2 与 Switch 下半年阵容。
-2. Xbox Games Showcase 2026 把 25 周年硬件、第一方独占和多款重磅新作集中推向夏季档。
+1. 夏季发布会专版已上线，集中梳理索尼 State of Play、Summer Game Fest 2026 和 Xbox Games Showcase 2026。
+2. 任天堂确认 2026 年 6 月 9 日举行新一期 Nintendo Direct，聚焦 Switch 2 与 Switch 下半年阵容。
 3. 《最终幻想 VII Revelation》正式公开，确认 2027 年春季多平台同步发售。
 4. ArenaNet 正式公开《Guild Wars 3》，老牌 MMO 终于进入新作周期。
 5. 腾讯 SPARK 2026 继续把重心押在长青产品与游戏 AI 落地。
