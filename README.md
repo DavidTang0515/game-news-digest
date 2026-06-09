@@ -6,6 +6,7 @@
 
 ## Latest Reports
 
+- [2026-06-09 游戏新闻日报](./news-2026-06-09.md)
 - [2026-05-31 游戏新闻日报](./news-2026-05-31.md)
 - [2026-05-28 游戏新闻日报](./news-2026-05-28.md)
 
@@ -45,8 +46,8 @@ news-YYYY-MM-DD.md
 
 ## Current Highlights
 
-1.《007：初露锋芒》媒体评分解禁，Metacritic 多平台评分约 86-87，Steam 英文用户评价开局偏正面。
-2.CD PROJEKT RED 官宣《巫师3：狂猎》新资料片 Songs of the Past，计划 2027 年推出。
-3.Steam Deck OLED 因内存与存储成本上涨而大幅提价，海外玩家反应偏负面。
-4.《无人深空》The Swarm 更新上线，继续扩展免费更新内容。
-5.《勇者斗恶龙12》更名 Beyond Dreams 并公开新预告，系列玩家兴奋与担忧并存。
+1. 任天堂确认 2026 年 6 月 9 日举行新一期 Nintendo Direct，聚焦 Switch 2 与 Switch 下半年阵容。
+2. Xbox Games Showcase 2026 把 25 周年硬件、第一方独占和多款重磅新作集中推向夏季档。
+3. 《最终幻想 VII Revelation》正式公开，确认 2027 年春季多平台同步发售。
+4. ArenaNet 正式公开《Guild Wars 3》，老牌 MMO 终于进入新作周期。
+5. 腾讯 SPARK 2026 继续把重心押在长青产品与游戏 AI 落地。
