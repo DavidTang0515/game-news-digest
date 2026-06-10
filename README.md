@@ -47,8 +47,8 @@ news-YYYY-MM-DD.md
 
 ## Current Highlights
 
-1. 夏季发布会专版已上线，集中梳理索尼 State of Play、Summer Game Fest 2026 和 Xbox Games Showcase 2026。
-2. 任天堂确认 2026 年 6 月 9 日举行新一期 Nintendo Direct，聚焦 Switch 2 与 Switch 下半年阵容。
+1. 夏季发布会专版已更新，现集中梳理索尼 State of Play、Summer Game Fest 2026、Xbox Games Showcase 2026 和北京时间 2026-06-10 的 Nintendo Direct，并按高热度游戏深挖。
+2. 任天堂直面会新增焦点包括《塞尔达传说：时之笛 重制版》和《Star Fox》，补齐了 Switch 2 下半年的最新讨论热点。
 3. 《最终幻想 VII Revelation》正式公开，确认 2027 年春季多平台同步发售。
 4. ArenaNet 正式公开《Guild Wars 3》，老牌 MMO 终于进入新作周期。
 5. 腾讯 SPARK 2026 继续把重心押在长青产品与游戏 AI 落地。
