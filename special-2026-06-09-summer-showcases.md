@@ -1,90 +1,121 @@
 # 2026-06-09 夏季发布会专版
 
-生成时间：2026-06-09 16:05 CST  
-覆盖范围：2026 年 6 月上旬三场核心游戏发布会，分别为索尼 `State of Play`（北京时间 2026-06-03）、`Summer Game Fest 2026`（北京时间 2026-06-06）和微软 `Xbox Games Showcase 2026`（北京时间 2026-06-08）。仅整理游戏相关信息，并按仓库规范补充国内外玩家态度与影响判断。
+版本：v2（2026-06-10 替换版）  
+更新时间：2026-06-10 16:40 CST  
+替换说明：本版覆盖 2026-06-09 首次上传版本，新增北京时间 2026-06-10 的任天堂 `Nintendo Direct`，并将结构改为“按发布会分类 + 每场高热度游戏深挖”。
 
 ## 今日最重要
 
-### 1. 索尼 State of Play 6 月场用第一方 IP 和密集发售日，提前锁定了 PS5 下半年叙事
+### 1. 索尼 State of Play 把讨论度最高的流量几乎都集中在《Marvel's Wolverine》《God of War: Laufey》和《Until Dawn 2》
 
-- 事件：PlayStation 在 2026 年 6 月 2 日举行超过 60 分钟的 `State of Play`，重点内容包括《Marvel's Wolverine》新实机与 2026 年 9 月 15 日发售日、《God of War: Laufey》正式公开、《Until Dawn 2》公布，以及《Onimusha: Way of the Sword》《Silent Hill: Townfall》《Ace Combat 8》《Control Resonant》等多款作品定档。
-- 重要性：这场发布会的核心不是“有没有海量首曝”，而是索尼把 2026 年秋季到 2027 年的 PS5 内容梯队一次性梳理清楚，用《金刚狼》和《战神》新作稳住第一方声量，再让第三方大作填满发售窗口。
-- 影响：对玩家来说，PS5 下半年购买和订阅决策会更直接，因为大量重点作品开始进入明确排期；对行业来说，索尼依然在用“第一方压轴 + 第三方发售日密集落地”的老方法稳定平台预期，而不是把舞台完全让给泛行业大展。
-- 国内态度：B 站 PlayStation 官方回放、IGN 中国速看和《金刚狼》深度演示视频都出现了较高播放与互动，中文社区主流情绪偏正面。共识集中在《金刚狼》实机表现够强、《战神：劳菲》压轴有讨论度；争议点则主要是《战神》新作没有给出明确发售时间，以及部分玩家认为整场会“发售日很多，但真正超预期首曝不算特别多”。
-- 国外态度：`r/Games` 与 `r/PS5` 整体反馈偏积极，核心共识是索尼至少给出了清晰的阵容和节奏，尤其是《Wolverine》与《God of War: Laufey》足够撑门面。争议点主要在于：一部分玩家认为这场会更像“稳妥排期秀”，不算爆炸式惊喜；另一部分玩家则担心索尼继续把内容过度集中在动作叙事大作上。
+- 事件：PlayStation 于北美时间 2026-06-02、北京时间 2026-06-03 举行 `State of Play`。从官方汇总和后续媒体传播看，最能拉动注意力的几款游戏主要是《Marvel's Wolverine》《God of War: Laufey》和《Until Dawn 2》。
+- 重要性：这场会真正撑起热度的不是“项目数量”，而是索尼重新把注意力拉回自己最擅长的单机叙事大作。高热度作品里，《Marvel's Wolverine》负责兑现多年期待，《God of War: Laufey》负责放大神话 IP 的外溢讨论，《Until Dawn 2》则补足了恐怖叙事赛道。
+- 影响：对玩家来说，这场会直接影响 2026 年下半年 PS5 的购买优先级；对索尼来说，如果《Wolverine》和《Laufey》后续演示继续稳定，PS5 在“单机大作平台”的品牌印象会进一步回正。
+- 国内态度：B 站和中文媒体传播里，讨论最集中的是《Marvel's Wolverine》的实机表现和暴力爽感，其次是《God of War: Laufey》到底能不能真正撑起“换主视角”的新鲜感。《Until Dawn 2》在中文社区的热度更多来自“老 IP 回归”和播片观感。共识是索尼这次最能打的还是大 IP 单机；争议点主要是《Laufey》目前更多还是概念和演出层面吸睛，离证明玩法成熟度还有距离。
+- 国外态度：海外公开讨论的主轴也类似，但分歧更明显。`r/PS5`、`r/Games` 和媒体评论里，《Wolverine》普遍被视为整场最稳的支柱；《God of War: Laufey》得到大量关注，但争议集中在“系列扩张是否足够必要”；《Until Dawn 2》则更像情绪型惊喜，喜欢的人认为它补足了索尼阵容类型，不买账的人觉得它还没展示足够强的玩法进化。
 - 来源：
-  - PlayStation Blog 预告页：https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/
-  - PlayStation Blog 汇总页：https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/
-  - Reddit / r/Games：https://www.reddit.com/r/Games/comments/1tv32u2/playstation_state_of_play_june_2026_megathread/
-  - Reddit / r/PS5：https://www.reddit.com/r/PS5/comments/1tv2dyo/state_of_play_june_2_2026_english/
-  - B 站 PlayStation 官方回放：https://www.bilibili.com/video/BV1sEVm6kE7K/
+  - PlayStation Blog 汇总：https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/
+  - The Verge 分析：https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026
+  - GamesRadar 关于《God of War: Laufey》：https://www.gamesradar.com/games/god-of-war/god-of-war-will-always-tell-stories-about-kratos-says-sony-santa-monica-creative-lead-cory-barlog-but-god-of-war-laufey-gives-devs-a-chance-to-surprise-you/
   - B 站检索页（State of Play 中文传播）：https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BCState+of+Play
 
-### 2. Summer Game Fest 2026 继续扮演“全行业总会场”，爆点最分散，但传播面仍然最广
+补充看点：
 
-- 事件：`Summer Game Fest 2026` 于 2026 年 6 月 5 日在洛杉矶举行，官方继续主打跨平台综合发布。媒体与社区总结显示，这场会的重头内容包括《Resident Evil: Veronica》公布、《Final Fantasy VII Revelation》作为压轴亮相、《Stellar Blade: Blood Rain》公开、《Guild Wars 3》官宣，以及 `gen Atlas`、`Alien Isolation 2` 等新作和系列续作信息。
-- 重要性：SGF 的价值不在于替代平台方发布会，而在于它仍然是“把跨平台 3A、日系、欧美、独立和大 IP 预告一次性打包”的最大公共流量入口。尤其在 E3 不复存在之后，很多发行商仍把最需要全平台曝光的内容留给 SGF 主舞台。
-- 影响：对玩家来说，SGF 仍然是看“全年行业热度风向”的第一站；对厂商来说，它继续是最适合放多平台大作、系列续作和广覆盖预告片的会场。但反过来，因为内容太杂、战线太长，单个作品的记忆点更依赖压轴顺序和品牌号召力。
-- 国内态度：B 站上 `IGN中国` 的《剑星：血雨》《最终幻想7 Revelation》《生化危机 维罗妮卡 重制版》等单条预告播放很高，整场发布会录播和预告片合集传播也明显强于一般细分发布会。中文玩家的共识是“爆点多、IP 面广、看点足”；争议点则主要集中在：除了压轴和头部 IP 之外，中段节奏是否拖沓，以及是否存在“量大但真正改变行业格局的超重磅首曝还是不够多”的问题。
-- 国外态度：`r/PS5` 等社区的公开讨论总体偏正面，认可这届 SGF 在《FF7 Revelation》《Resident Evil: Veronica》《Stellar Blade: Blood Rain》等头部内容上的吸引力。争议点主要在于直播质量和中段节奏，一部分玩家觉得“好看但略长”，也有人认为它仍然缺少那种一锤定音级别的年度核弹。
+1. 《Marvel's Wolverine》：热度最高，因为它同时承担“Insomniac 新作兑现”和“PS5 年度动作大作门面”两层任务。只要发售前口碑不崩，它就是这场会里最可能直接转化为主机购买理由的游戏。
+2. 《God of War: Laufey》：热度紧随其后，原因不是单纯靠系列名气，而是它触发了“战神还能怎么讲”的讨论。关注点集中在叙事视角切换、与 Kratos 关系的处理、以及是否只是外传规格。
+3. 《Until Dawn 2》：热度不一定高过《Silent Hill: Townfall》，但在中文社区传播里更容易破圈，因为前作认知更广，也更适合直播、切片和剧情向讨论。
+
+### 2. Summer Game Fest 2026 真正拉满全网讨论的，仍然是《Resident Evil Requiem》带头，再加上《Death Stranding 2: On the Beach》和《Code Vein 2》形成第二梯队
+
+- 事件：`Summer Game Fest 2026` 主舞台于北美时间 2026-06-05、北京时间 2026-06-06 举行。公开汇总和后续媒体报道显示，热度最集中的作品是压轴级别的《Resident Evil Requiem》，而《Death Stranding 2: On the Beach》与《Code Vein 2》属于讨论最持久的第二梯队。
+- 重要性：SGF 的典型价值就是“把全年最容易形成跨平台公共流量的话题集中放大”。这一次最明显的例子，就是《生化危机》新作带动了主舞台的峰值讨论，而《死亡搁浅 2》和《Code Vein 2》分别吃到了作者表达和二次元动作 RPG 两类不同受众。
+- 影响：对玩家来说，这三款游戏基本定义了 SGF 这一晚的记忆点；对发行层面来说，也说明 SGF 依然适合承载“跨平台大作首曝或关键曝光”，尤其是需要同时覆盖主机、PC 和内容创作者传播链的项目。
+- 国内态度：中文社区里，《Resident Evil Requiem》是最没有悬念的头号热点，关注点集中在系列正统续作身份、恐怖氛围回归和角色线索；《Death Stranding 2》的讨论更偏“演出、气质和小岛秀夫个人风格”；《Code Vein 2》则在二次元动作玩家圈层里讨论密度很高。共识是 SGF 真正最能带动全网情绪的还是头部 IP；争议点在于整场会中段内容偏散，导致非头部项目很难留下持续记忆。
+- 国外态度：海外讨论中，《Resident Evil Requiem》同样是最强锚点，媒体和社区普遍把它视作整场会最像“one more thing”的内容。《Death Stranding 2》获得的评价更两极，喜欢的人非常买账，不喜欢的人仍然觉得它更像作者气质展示；《Code Vein 2》则得到相对稳定的正面反馈，主要围绕战斗节奏和美术风格。争议焦点不是这些游戏本身，而是很多人认为 SGF 仍然存在“头重脚轻”的问题。
 - 来源：
-  - Summer Game Fest 官方页：https://www.summergamefest.com/?pubDate=20260506
+  - Summer Game Fest 官方站：https://www.summergamefest.com/
+  - Tom's Guide 汇总：https://www.tomsguide.com/news/live/summer-game-fest-2026-live-updates
   - GameSpot 汇总：https://www.gamespot.com/articles/summer-game-fest-live-2026-all-the-biggest-announcements-and-games/
-  - VGC 汇总：https://www.videogameschronicle.com/news/summer-game-fest-2026-heres-every-announcement-from-sgfs-big-live-show/
-  - Reddit / r/PS5：https://www.reddit.com/r/PS5/comments/1txz8yt/summer_game_fest_2026_official_4k60fps_livestream/
-  - B 站检索页（夏日游戏节录播与合集）：https://search.bilibili.com/all?keyword=%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82
-  - B 站检索页（SGF 官方同传录播与相关传播）：https://search.bilibili.com/all?keyword=%E5%8F%91%E5%B8%83%E4%BC%9A%E5%BD%95%E6%92%AD
+  - B 站检索页（夏日游戏节）：https://search.bilibili.com/all?keyword=%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82
 
-### 3. Xbox Games Showcase 2026 的平台信号最强，微软把“内容、独占、硬件、Game Pass”四件事一起讲透了
+补充看点：
 
-- 事件：微软在 2026 年 6 月 7 日举行 `Xbox Games Showcase 2026`，正式公布 `Xbox Series X25 Limited Edition` 与 `X25 Special Edition` 手柄，并确认《Gears of War: E-Day》《Clockwork Revolution》为 Xbox 主机独占；同时还放出《Call of Duty: Modern Warfare 4》DMZ、《Halo: Campaign Evolved》《Minecraft Dungeons II》《Persona 4 Revival》等多项重点内容。
-- 重要性：如果说索尼这次是“把排期讲清”，SGF 是“把行业热度做大”，那微软这次就是最明确地在讲平台战略。它不是单纯发布游戏，而是在用周年硬件、独占回归、第一方和第三方合作一起强调 Xbox 主机生态仍然有独立价值。
-- 影响：对玩家来说，这场会强化了“今年下半年 Xbox 到底能玩什么、买什么、订什么”的判断依据，尤其有利于 Game Pass 用户和主机收藏用户；对行业来说，微软明显在修正过去一段时间“平台边界弱化”的外部印象，重新强调主机端身份。
-- 国内态度：中文社区讨论比较集中在三块，一是 25 周年硬件是否真正好看、值不值得买，二是《Gears》《P4R》《MW4 DMZ》等重点内容能否撑起整场会的口碑，三是“独占回归”到底是短期口号还是长期路线。整体情绪偏正面，但也有不少声音认为微软这次最强的是“平台叙事”，不是单个新作的震撼程度。
-- 国外态度：`r/Games` 和 `r/xbox` 的整体反应偏积极，共识是这场发布会比近几次更有传统 Xbox 大会的味道，也更像一个真正服务主机品牌的 show。争议点主要在于：新硬件对老用户吸引力有限，以及“独占回归”如果后续兑现不足，反而会放大玩家预期落差。
+1. 《Resident Evil Requiem》：它几乎是这场会唯一具备“压轴即锁定全场标题位”能力的游戏。重要的不只是它热，而是它天然能跨越主机、PC、轻度观众和内容创作者圈层。
+2. 《Death Stranding 2: On the Beach》：这类项目的热度并不完全取决于玩法说明，而是取决于“镜头一出来就能被认出来”。它对 SGF 的价值在于提高整场会的文化辨识度。
+3. 《Code Vein 2》：虽然体量不如前两者，但它在中文和海外 ACG 玩家群体里都很容易形成持续二创和对比讨论，因此传播韧性很强。
+
+### 3. 微软 Xbox Games Showcase 2026 里最能把玩家注意力锁住的，是《Gears of War: E-Day》《Fable》和《Persona 4 Revival》
+
+- 事件：微软于北美时间 2026-06-07、北京时间 2026-06-08 举行 `Xbox Games Showcase 2026`。从 Xbox Wire 总结和后续媒体整理看，《Gears of War: E-Day》是绝对主舞台核心，《Fable》和《Persona 4 Revival》则是传播最强的后续讨论点。
+- 重要性：这三款游戏分别代表了 Xbox 当下最需要讲清楚的三件事。《Gears》代表传统核心主机品牌力，《Fable》代表第一方大作的长期排期信心，《Persona 4 Revival》代表日系内容和 Game Pass 话题的连接能力。
+- 影响：如果《Gears》能顺利把情绪兑现成成品口碑，Xbox 今年最强的第一方支柱就会更明确；《Fable》关系到 2027 档期的持续关注；《Persona 4 Revival》则强化了微软发布会“经常能蹲到大 JRPG 节点”的用户心智。
+- 国内态度：中文讨论里，《Gears of War: E-Day》仍然是最像“Xbox 牌面”的作品，很多玩家把它视作微软这次最能提振主机品牌的内容；《Persona 4 Revival》在中文圈的讨论密度非常高，原因是 IP 认知广、角色粉丝多、平台覆盖广；《Fable》则更像长期观察项目，大家关心它最终能不能把预告片气质兑现成实机体验。争议点主要是：这场会里最强的几个点都很明确，但真正临近发售、能马上转化为购买行为的作品仍然不算特别多。
+- 国外态度：海外社区对《Gears》的反应最集中，普遍认可它重新把“传统 Xbox 大作味道”拉了回来；《Fable》更多承接了“终于更清楚了，但还要继续看”的态度；《Persona 4 Revival》则既带来兴奋，也带来关于重制必要性和展示内容偏少的争议。整体共识是微软这次大会比前几次更像一场真正围绕游戏阵容展开的品牌发布会。
 - 来源：
-  - Xbox Wire 预告页：https://news.xbox.com/en-us/2026/03/30/xbox-games-showcase-2026-gears-of-war-e-day-direct/
-  - Xbox Wire 总结页：https://news.xbox.com/en-us/2026/06/07/xbox-games-showcase-2026-recap-everything-announced/
-  - GameSpot 汇总：https://www.gamespot.com/articles/xbox-game-showcase-2026-all-the-biggest-announcements-so-far/
-  - Reddit / r/Games：https://www.reddit.com/r/Games/comments/1tzfwan/summer_rgames_fest_2026_xbox_games_showcase/
-  - Reddit / r/xbox：https://www.reddit.com/r/xbox/comments/1tzeu5f/4k_xbox_games_showcase_2026_gears_of_war_eday/
-  - B 站检索页（Xbox 2026 发布会中文传播）：https://search.bilibili.com/all?keyword=Xbox%202026%20%E5%8F%91%E5%B8%83%E4%BC%9A
+  - Xbox Wire 汇总：https://news.xbox.com/en-us/2026/06/07/xbox-games-showcase-2026-recap-everything-announced/
+  - Windows Central 汇总：https://www.windowscentral.com/gaming/xbox/everything-announced-at-xbox-games-showcase-2026-and-gears-of-war-e-day-direct
+  - Tom's Guide 汇总：https://www.tomsguide.com/news/live/xbox-games-showcase-2026-live-updates
+  - B 站检索页（Xbox 2026 发布会）：https://search.bilibili.com/all?keyword=Xbox%202026%20%E5%8F%91%E5%B8%83%E4%BC%9A
+
+补充看点：
+
+1. 《Gears of War: E-Day》：它的重要性远高于一般“系列新作”。因为只要它表现稳，微软就能再次证明自己仍然有能力做出最典型的硬派主机动作射击门面。
+2. 《Fable》：热度来自“终于更进一步”，而不是“一次性彻底证明”。它更像一个继续累积信任的项目。
+3. 《Persona 4 Revival》：虽然它不是 Xbox 自家 IP，但它天然带有高讨论度和高平台传播能力，非常适合出现在这种面向核心玩家的大会上。
+
+### 4. 任天堂 Nintendo Direct 的最大流量显然被《塞尔达传说：时之笛 重制版》和《Star Fox》吃走，第三梯队讨论则分散在《Splatoon Raiders》等 Switch 2 阵容上
+
+- 事件：任天堂于北美时间 2026-06-09、北京时间 2026-06-10 举行新的 `Nintendo Direct`。截至北京时间 2026-06-10 下午的公开报道，热度最集中的新内容是《塞尔达传说：时之笛 重制版》和《Star Fox》；其后讨论主要分散在《Splatoon Raiders》及若干 Switch 2 后续阵容。
+- 重要性：这场直面会的核心不只是公布了什么，而是它非常明确地展示了任天堂在 Switch 2 进入第二阶段后仍优先使用“经典 IP 重制/重启 + 已知系列延展”来稳住平台热度。
+- 影响：对玩家来说，这意味着 Switch 2 的内容吸引力继续建立在强 IP 确定性上；对行业来说，任天堂依旧证明自己哪怕不靠全新 3D 马力欧，也能靠经典资源调动巨大注意力。但这也会同步放大一个问题：玩家对“保守”还是“稳健”的判断分歧，会比索尼和 Xbox 更尖锐。
+- 国内态度：中文传播里，《时之笛》重制版几乎自然占据了第一讨论位，因为它兼具经典地位、怀旧价值和“终于来了”的情绪；《Star Fox》则更多围绕“系列复活本身值得高兴，但又是重制/重启会不会太保守”展开。《Splatoon Raiders》等后续阵容有热度，但明显被前两者压住。共识是任天堂最会调动老 IP 情绪；争议点则是这场会是否太依赖安全牌。
+- 国外态度：海外媒体和社区的主流判断与中文圈接近，但批评声音更直接。一方面，《Ocarina of Time》重制版被视作足够重磅，`Star Fox` 也确实能引发老玩家情绪；另一方面，不少评论认为这场会过于依赖 N64 时代情怀，缺少能代表 Switch 2 下一阶段野心的新原创锚点。证据不足的作品上，暂未看到足够明确的玩家反馈。
+- 来源：
+  - The Verge 报道《Ocarina of Time》重制版：https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026
+  - The Verge 直面会分析：https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis
+  - GamesRadar 直面会预告与会后要点参考：https://www.gamesradar.com/games/events-conferences/nintendo-direct-confirmed-for-tomorrow-with-50-minutes-of-announcements-followed-by-a-massive-treehouse-live-stream/
+  - B 站检索页（Nintendo Direct 中文传播）：https://search.bilibili.com/all?keyword=Nintendo%20Direct%202026
+
+补充看点：
+
+1. 《塞尔达传说：时之笛 重制版》：这是标准的“公布即接管讨论”的项目，原因不只是地位高，而是它同时触发了怀旧、平台护城河和 Switch 2 画面想象空间三种情绪。
+2. 《Star Fox》：它的热度很大程度来自“系列终于被重新想起来了”。但也正因为如此，争议点同样集中在“为什么又回到旧作框架”。
+3. 《Splatoon Raiders》：在热度上明显低于前两者，但它对任天堂自己的平台运营价值不低，因为它更像服务未来一年活跃度的常规主力。
 
 ## 其他值得关注
 
-### 4. 三场会放在一起看，索尼最像“平台排期管理”，SGF 最像“全行业流量池”，Xbox 最像“品牌战役”
+### 5. 四场发布会放在一起看，真正决定讨论度高低的仍然是“有没有能立刻被玩家叫出名字的游戏”
 
-- 事件：三场发布会都在 2026 年 6 月上旬集中举行，但它们讲的并不是同一件事。索尼更强调现阶段 PS5 的内容排期和第一方品牌，SGF 更强调跨平台公共曝光，微软则把平台身份、硬件和订阅生态一起推到台前。
-- 重要性：这决定了玩家不能只看“哪场首曝多”，而要看每场会的任务是否完成。按这个标准看，三场会其实都完成了各自最关键的目标。
-- 影响：后续行业讨论很可能会继续分化成三种口径：围绕索尼看“哪款先买”、围绕 SGF 看“全年谁最热”、围绕 Xbox 看“平台路线是否真的回摆”。
-- 国内态度：中文玩家更容易直接比较“谁更炸”，因此会把三场会放在同一把尺子下打分；但实际讨论里已经能看到，很多人也开始区分“作品热度”和“平台策略”不是一回事。
-- 国外态度：海外讨论更愿意把三场会分开评价。索尼得到的是“阵容稳”，SGF 得到的是“爆点广”，Xbox 得到的是“品牌感回来了一些”。真正的争议不在单场输赢，而在这些承诺能不能在未来 6 到 12 个月兑现。
+- 事件：索尼、SGF、Xbox 和任天堂四场会在一周内连续出现，但最终真正能冲出圈层的内容，几乎都集中在少数几个名字足够响的游戏上。
+- 重要性：这说明 2026 年夏季发布会的竞争，本质上仍然不是“播片数量竞赛”，而是谁手里有足够强的游戏锚点。
+- 影响：后续一段时间，玩家记住的不会是每场会各有几十个项目，而是《Wolverine》《生化危机》《Gears》《时之笛》这些已经形成品牌认知的名字。中腰部项目要么靠玩法差异化，要么靠圈层传播，否则很容易被头部内容压过去。
+- 国内态度：中文玩家的比较口径通常更直接，核心就是“谁拿出了最炸的游戏”。从这个角度看，索尼靠《Wolverine》，SGF 靠《生化危机》，Xbox 靠《Gears》，任天堂靠《时之笛》。
+- 国外态度：海外讨论更愿意分平台目的去看，但最终最高互动的内容仍然主要集中在头部 IP 上。真正的分歧不在“这些游戏热不热”，而在“这些大 IP 是创新还是保守”。
 - 来源：
   - PlayStation Blog 汇总：https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/
-  - Summer Game Fest 官方页：https://www.summergamefest.com/?pubDate=20260506
-  - Xbox Wire 总结页：https://news.xbox.com/en-us/2026/06/07/xbox-games-showcase-2026-recap-everything-announced/
+  - Summer Game Fest 官方站：https://www.summergamefest.com/
+  - Xbox Wire 汇总：https://news.xbox.com/en-us/2026/06/07/xbox-games-showcase-2026-recap-everything-announced/
+  - The Verge Nintendo Direct 分析：https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis
 
 ## 今日观察
 
-这三场会放在一起看，最值得注意的不是“谁的预告片最多”，而是平台方和发行商在 2026 年夏季已经把分工讲得很清楚。索尼负责稳住自家大作节奏，SGF 负责放大全行业流量，微软则尝试把平台身份重新讲回来。对玩家来说，这意味着后面的讨论会越来越少是“有没有游戏”，而更多是“这些游戏会在哪个生态里被优先消费、优先传播、优先变成硬件和订阅的购买理由”。
+这版专版重做之后，一个结论会更清楚：玩家最终不会记住“四场会分别讲了多少内容”，而只会记住每场会里最能代表平台气质的那两三款游戏。索尼最强的是把单机大作气质重新拎直，SGF 最强的是让《生化危机》这种跨平台大 IP 吃满公共流量，Xbox 最强的是用《Gears》重新召回主机品牌情绪，任天堂最强的则是继续证明经典 IP 依然是最稳的注意力机器。真正的后续看点，是这些高热度游戏能不能在下一轮实机、试玩和发售节点把现在的情绪兑现成口碑。
 
 ## 来源索引
 
-- PlayStation Blog - State of Play returns Tuesday, June 2: https://blog.playstation.com/2026/05/20/state-of-play-returns-tuesday-june-2/
 - PlayStation Blog - State of Play June 2026: all announcements, trailers: https://blog.playstation.com/2026/06/02/state-of-play-june-2026-all-announcements-trailers/
-- Reddit / r/Games - PlayStation State of Play June 2026 Megathread: https://www.reddit.com/r/Games/comments/1tv32u2/playstation_state_of_play_june_2026_megathread/
-- Reddit / r/PS5 - State of Play | June 2, 2026 [English]: https://www.reddit.com/r/PS5/comments/1tv2dyo/state_of_play_june_2_2026_english/
-- B 站 PlayStation 官方回放：https://www.bilibili.com/video/BV1sEVm6kE7K/
+- The Verge - PlayStation is getting back to what it's good at: https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026
+- GamesRadar - God of War will "always tell stories about Kratos"...: https://www.gamesradar.com/games/god-of-war/god-of-war-will-always-tell-stories-about-kratos-says-sony-santa-monica-creative-lead-cory-barlog-but-god-of-war-laufey-gives-devs-a-chance-to-surprise-you/
 - B 站检索页（State of Play）：https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BCState+of+Play
-- Summer Game Fest 官方页：https://www.summergamefest.com/?pubDate=20260506
+- Summer Game Fest 官方站：https://www.summergamefest.com/
+- Tom's Guide - Summer Game Fest 2026 updates: https://www.tomsguide.com/news/live/summer-game-fest-2026-live-updates
 - GameSpot - Summer Game Fest Live 2026: All The Biggest Announcements And Games: https://www.gamespot.com/articles/summer-game-fest-live-2026-all-the-biggest-announcements-and-games/
-- VGC - Summer Game Fest 2026: Here’s every announcement from SGF’s big live show: https://www.videogameschronicle.com/news/summer-game-fest-2026-heres-every-announcement-from-sgfs-big-live-show/
-- Reddit / r/PS5 - SUMMER GAME FEST 2026: Official 4K60FPS Livestream: https://www.reddit.com/r/PS5/comments/1txz8yt/summer_game_fest_2026_official_4k60fps_livestream/
 - B 站检索页（夏日游戏节）：https://search.bilibili.com/all?keyword=%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82
-- B 站检索页（发布会录播）：https://search.bilibili.com/all?keyword=%E5%8F%91%E5%B8%83%E4%BC%9A%E5%BD%95%E6%92%AD
-- Xbox Wire - Xbox Games Showcase 2026 Followed by Gears of War: E-Day Direct Airs June 7: https://news.xbox.com/en-us/2026/03/30/xbox-games-showcase-2026-gears-of-war-e-day-direct/
-- Xbox Wire - XBOX Games Showcase 2026 Recap: The Return of Exclusives, World Premieres, and Anniversary Hardware: https://news.xbox.com/en-us/2026/06/07/xbox-games-showcase-2026-recap-everything-announced/
-- GameSpot - Xbox Games Showcase 2026: All The Biggest Announcements: https://www.gamespot.com/articles/xbox-game-showcase-2026-all-the-biggest-announcements-so-far/
-- Reddit / r/Games - Summer /r/Games Fest 2026 - XBOX Games Showcase Megathread: https://www.reddit.com/r/Games/comments/1tzfwan/summer_rgames_fest_2026_xbox_games_showcase/
-- Reddit / r/xbox - [4K] XBOX Games Showcase 2026 | Gears of War: E-Day Direct: https://www.reddit.com/r/xbox/comments/1tzeu5f/4k_xbox_games_showcase_2026_gears_of_war_eday/
+- Xbox Wire - Xbox Games Showcase 2026 recap: https://news.xbox.com/en-us/2026/06/07/xbox-games-showcase-2026-recap-everything-announced/
+- Windows Central - Everything announced at Xbox Games Showcase 2026: https://www.windowscentral.com/gaming/xbox/everything-announced-at-xbox-games-showcase-2026-and-gears-of-war-e-day-direct
+- Tom's Guide - Xbox Games Showcase 2026 live updates: https://www.tomsguide.com/news/live/xbox-games-showcase-2026-live-updates
 - B 站检索页（Xbox 2026 发布会）：https://search.bilibili.com/all?keyword=Xbox%202026%20%E5%8F%91%E5%B8%83%E4%BC%9A
+- The Verge - Ocarina of Time remake: https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026
+- The Verge - Nintendo is playing things too safe: https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis
+- GamesRadar - Nintendo Direct confirmed for tomorrow...: https://www.gamesradar.com/games/events-conferences/nintendo-direct-confirmed-for-tomorrow-with-50-minutes-of-announcements-followed-by-a-massive-treehouse-live-stream/
+- B 站检索页（Nintendo Direct）：https://search.bilibili.com/all?keyword=Nintendo%20Direct%202026
