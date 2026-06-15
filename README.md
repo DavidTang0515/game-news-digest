@@ -6,6 +6,7 @@
 
 ## Latest Reports
 
+- [2026-06-15 游戏新闻日报](./news-2026-06-15.md)
 - [2026-06-09 夏季发布会专版](./special-2026-06-09-summer-showcases.md)
 - [2026-06-09 游戏新闻日报](./news-2026-06-09.md)
 - [2026-05-31 游戏新闻日报](./news-2026-05-31.md)
@@ -47,8 +48,8 @@ news-YYYY-MM-DD.md
 
 ## Current Highlights
 
-1. 夏季发布会专版已更新，现集中梳理索尼 State of Play、Summer Game Fest 2026、Xbox Games Showcase 2026 和北京时间 2026-06-10 的 Nintendo Direct，并按高热度游戏深挖。
-2. 任天堂直面会新增焦点包括《塞尔达传说：时之笛 重制版》和《Star Fox》，补齐了 Switch 2 下半年的最新讨论热点。
-3. 《最终幻想 VII Revelation》正式公开，确认 2027 年春季多平台同步发售。
-4. ArenaNet 正式公开《Guild Wars 3》，老牌 MMO 终于进入新作周期。
-5. 腾讯 SPARK 2026 继续把重心押在长青产品与游戏 AI 落地。
+1. 2026-06-15 日报已补齐上次自动化运行后的重点窗口，集中覆盖 Xbox Reset 备忘录、《塞尔达传说：时之笛》重制版、《王国之心 IV》多平台确认、《Gothic Remake》销量与《Atelier Karia》首曝。
+2. 夏季发布会专版已更新，现集中梳理索尼 State of Play、Summer Game Fest 2026、Xbox Games Showcase 2026 和北京时间 2026-06-10 的 Nintendo Direct，并按高热度游戏深挖。
+3. 任天堂直面会新增焦点包括《塞尔达传说：时之笛 重制版》和《Star Fox》，补齐了 Switch 2 下半年的最新讨论热点。
+4. 《最终幻想 VII Revelation》正式公开，确认 2027 年春季多平台同步发售。
+5. ArenaNet 正式公开《Guild Wars 3》，老牌 MMO 终于进入新作周期。
