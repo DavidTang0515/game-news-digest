@@ -6,6 +6,7 @@
 
 ## Latest Reports
 
+- [2026-06-22 游戏新闻日报](./news-2026-06-22.md)
 - [2026-06-17 游戏新闻日报](./news-2026-06-17.md)
 - [2026-06-16 游戏新闻日报](./news-2026-06-16.md)
 - [2026-06-15 游戏新闻日报](./news-2026-06-15.md)
@@ -50,8 +51,8 @@ news-YYYY-MM-DD.md
 
 ## Current Highlights
 
-1. 2026-06-17 日报聚焦 Xbox 工作室收缩进一步外溢、EA 正式推出游戏内广告平台、Valve 停止实体 Steam 礼品卡补货，以及 Roblox 继续加码年龄验证。
-2. 2026-06-16 日报聚焦 Xbox 连续关停工作室与高层动荡、Ubisoft 继续关闭工作室并扩大裁员，以及 6 月中旬 Game Pass 阵容落地后的平台讨论重心。
-3. 2026-06-15 日报已补齐上次自动化运行后的重点窗口，集中覆盖 Xbox Reset 备忘录、《塞尔达传说：时之笛》重制版、《王国之心 IV》多平台确认、《Gothic Remake》销量与《Atelier Karia》首曝。
-4. 夏季发布会专版已更新，现集中梳理索尼 State of Play、Summer Game Fest 2026、Xbox Games Showcase 2026 和北京时间 2026-06-10 的 Nintendo Direct，并按高热度游戏深挖。
-5. 任天堂直面会新增焦点包括《塞尔达传说：时之笛 重制版》和《Star Fox》，补齐了 Switch 2 下半年的最新讨论热点。
+1. 2026-06-22 日报覆盖 6 月 17 日上期生成后至本次运行的增量窗口，聚焦《GTA VI》开放预购节点、《The Adventures of Elliot》正式发售，以及全球游戏市场收入首次突破 2000 亿美元。
+2. 2026-06-17 日报聚焦 Xbox 工作室收缩进一步外溢、EA 正式推出游戏内广告平台、Valve 停止实体 Steam 礼品卡补货，以及 Roblox 继续加码年龄验证。
+3. 2026-06-16 日报聚焦 Xbox 连续关停工作室与高层动荡、Ubisoft 继续关闭工作室并扩大裁员，以及 6 月中旬 Game Pass 阵容落地后的平台讨论重心。
+4. 2026-06-15 日报已补齐上次自动化运行后的重点窗口，集中覆盖 Xbox Reset 备忘录、《塞尔达传说：时之笛》重制版、《王国之心 IV》多平台确认、《Gothic Remake》销量与《Atelier Karia》首曝。
+5. 夏季发布会专版已更新，现集中梳理索尼 State of Play、Summer Game Fest 2026、Xbox Games Showcase 2026 和北京时间 2026-06-10 的 Nintendo Direct，并按高热度游戏深挖。
